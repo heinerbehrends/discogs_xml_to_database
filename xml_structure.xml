@@ -1,0 +1,22 @@
+<label>
+  <images>
+    <image height = "number" type = "secondary" uri = "uristring" uri150 = "uristring" width = "number"/>
+  </images>
+  <name>
+    "string"
+  </name>
+  <contactinfo>
+    "string"
+  </contactinfo>
+  <profile>
+    "string"
+  </profile>
+  <urls>
+    <url>
+      "urlstring"
+    </url>
+    <url>
+      "urlstring"
+    </url>
+  </urls>
+</label>
