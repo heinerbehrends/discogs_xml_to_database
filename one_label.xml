@@ -1,0 +1,28 @@
+<label>
+  <images>
+    <image height="24" type="secondary" uri="http://www.discogs.com/image/L-1-1111053865.png" uri150="http://www.discogs.com/image/L-150-1-1111053865.png" width="132" />
+    <image height="126" type="secondary" uri="http://www.discogs.com/image/L-1-1139403654.gif" uri150="http://www.discogs.com/image/L-150-1-1139403654.gif" width="587" />
+    <image height="196" type="secondary" uri="http://www.discogs.com/image/L-1-1200165078.gif" uri150="http://www.discogs.com/image/L-150-1-1200165078.gif" width="600" />
+  </images>
+  <name>Planet E</name>
+  <contactinfo>Planet E Communications
+    P.O. Box 27218
+    Detroit, 48227, USA
+
+    Phone: (313) 567-0916
+  </contactinfo>
+  <profile>Classic Techno label from Detroit, USA.
+    [b]Label owner:[/b] [a=Carl Craig].
+  </profile>
+  <urls>
+    <url>http://www.planet-e.net/
+    </url>
+    <url>http://www.myspace.com/planetecom  </url>
+    <url />
+  </urls>
+  <sublabels>
+    <label>Antidote (4)</label>
+    <label>Community Projects</label>
+    <label>I Ner Zon Sounds</label>
+  </sublabels>
+</label>
